@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Game Platform Engine",
+  "description": "Multi-language RPG engine with JWT login system, character customization, adaptive Web Audio music synthesizer, spatial audio visualizer, and cloud save sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
